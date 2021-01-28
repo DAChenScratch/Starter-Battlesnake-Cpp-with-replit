@@ -12,16 +12,5 @@ A c++ battlesnake that can be deployed on Repl.it
  Click import from github.
  Select your forked repo's name.
  Delete the .replit file
-
-# Run in terminal
- Fork this repo.
- Download zip.
- Enter into the command prompt: cd 'Path_to_this_file'
- <br>
- Then run the following:
- <br>
- g++ snake.cpp
- <br>
- ./a.out
- <br>
- Does this work? I'm not really good at c++, so feedback will be apprectiated.
+ Select language: C++
+ Click the run button
