@@ -5,7 +5,7 @@ This is a basic implementation of the [Battlesnake API](https://docs.battlesnake
 ### Technologies
 
 * [C++](https://www.cplusplus.com/)
-* [Repl.it Account](https://repl.it)
+* [Repl.it](https://repl.it)
 
 
 ### Prerequisites
