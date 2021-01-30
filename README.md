@@ -11,6 +11,4 @@ A c++ battlesnake that can be deployed on Repl.it
  Click new repl.
  Click import from github.
  Select your forked repo's name.
- Delete the .replit file
- Select language: C++
  Click the run button
