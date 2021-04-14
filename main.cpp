@@ -12,7 +12,7 @@ int main(void) {
     string tail = "default"; //TODO: Change tail
     string author = ""; //TODO: Change your battlesnake username
     string color = "#888888";  //TODO: Change a hex color
-    res.set_content("{\"apiversion\":\"1\", \"head\":\"" + head + "\", \"tail\":\"" + tail + "\", \"color\":\"" + color + "\", " + "\"author\":\"" + author + "\"}", "text/json");
+    res.set_content("{\"apiversion\":\"1\", \"head\":\"" + head + "\", \"tail\":\"" + tail + "\", \"color\":\"" + color + "\", " + "\"author\":\"" + author + "\"}", "application/json");
   });
   svr.Post("/end", [](const auto &, auto &res){
     res.set_content("ok", "text/plain");
